@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://sourceforge.net/projects/projectmatrixx/files/Android-15/monet/Matrixx-v11.2.5-Official-monet-Vanilla-20250303-0037.zip/download
+  ROM_NAME: Generic Pixel
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
